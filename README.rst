@@ -4,4 +4,4 @@ Image loader
 
 1. How to use
 ----------------------------------------------------------------------
-run ``./upload-images.py path_to_images``
+run ``./image_loader.py path_to_images``
